@@ -48,4 +48,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     #define RGBLIGHT_VAL_STEP 17
     #define RGBLIGHT_DEFAULT_HUE 127
     #define RGBLIGHT_DEFAULT_MODE RGBLIGHT_MODE_RAINBOW_MOOD
+    #define RGBLIGHT_SLEEP
 #endif
